@@ -33,6 +33,7 @@ I gave him my cool fish picture and a code to add pictures to the README.md file
 - I created another GitHub repository for my project for this course:
 https://github.com/LunavdL/Project_concatenating_trees
 I work together with Onno den Boon. He became a collaborator.
+I also added a document with the requirements for the project.
 
 - I asked a lot of questions.
 
