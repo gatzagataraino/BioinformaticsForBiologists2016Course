@@ -41,3 +41,5 @@ I also added a document with the requirements for the project.
 - I asked a lot of questions.
 
 Thanks for the help today!
+
+p.s. sorry that there are no screenshots...but I have not managed to make a screenshot yet in linux (every program makes a screenshot, but then it is just a black picture instead of a picture of the screen)
