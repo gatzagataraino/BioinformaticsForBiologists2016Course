@@ -1,0 +1,35 @@
+The Grade I Deserve is...
+
+I always find it hard to write such descriptions.
+Based on your recommendations, I think I should write "The grade I deserve is an 8" :-)
+Because:
+
+- I added a profile picture of me diving in the Caribbean while sampling algae. 
+I will use git and GitHub to have version control of the scripts I will write to make phylogenetic trees of my algae samples.
+So that is a nice link.
+
+- I added a cool picture of fish to my README.md file cheer you up (in case you like fish)
+I used this command:  echo '![fish_picture](Fish_in_Croatia.jpg)' >> README.md
+I also learned that I cannot use this command to add a picture to a .txt file
+
+- I learned how to create a repository, clone this to my local computer, make changes, add the modified documents to the staged 
+documents, commit them (including a message that describes what I changed) and push it back to the cloud. 
+I added a document with instructions on how to create a repository to my repository TestGitHub.
+I also added a document with useful git commands.
+
+- I learned the difference between collaborating in a repository (having full rights) and forking the repository to my
+local computer, modify files, and then sending a pull request to the owner of the files to see if he/she wants to merge my
+changes with his/her files. I also tested both ways.
+I became a collaborator of richelbilderbeek/BioinformaticsForBiologists2016Course by sending an issue.
+I added a file to this repository 
+(and I switched off notifications by email to avoid spam).
+I merged documents with LJK1991/Bioinformatics-Course.
+I gave him my cool fish picture and a code to add pictures to the README.md file
+
+- I follow people and other people follow me.
+
+- I had a merge conflict (within my own repository) and fixed this.
+
+- I asked a lot of questions.
+
+Thanks for the help today!
