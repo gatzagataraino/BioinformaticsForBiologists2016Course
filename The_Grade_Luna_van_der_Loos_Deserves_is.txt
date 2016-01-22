@@ -16,6 +16,9 @@ I also learned that I cannot use this command to add a picture to a .txt file
 documents, commit them (including a message that describes what I changed) and push it back to the cloud. 
 I added a document with instructions on how to create a repository to my repository TestGitHub.
 I also added a document with useful git commands.
+I tried adding a powerpoint file (called Onno_Luna_Presentation_2) to see how that would look. You cannot view the slide
+online, but it is possible to download the powerpoint.
+When I added a pdf file, I was able to view it online.
 
 - I learned the difference between collaborating in a repository (having full rights) and forking the repository to my
 local computer, modify files, and then sending a pull request to the owner of the files to see if he/she wants to merge my
