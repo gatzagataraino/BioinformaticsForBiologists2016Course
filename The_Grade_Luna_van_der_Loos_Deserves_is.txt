@@ -30,6 +30,10 @@ I gave him my cool fish picture and a code to add pictures to the README.md file
 
 - I had a merge conflict (within my own repository) and fixed this.
 
+- I created another GitHub repository for my project for this course:
+https://github.com/LunavdL/Project_concatenating_trees
+I work together with Onno den Boon. He became a collaborator.
+
 - I asked a lot of questions.
 
 Thanks for the help today!
