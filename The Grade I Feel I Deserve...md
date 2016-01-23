@@ -1,1 +1,1 @@
-Graded.
+Graded
