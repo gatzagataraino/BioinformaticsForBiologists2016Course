@@ -1,18 +1,1 @@
-# Jurjan van der Zee
-
-The grade I think I deserve doesn't really matter, because I won't get a grade for taking 
-the course :). But let's make it an 8 just for the sake of it.
-
-- I managed to dust of my old GitHub account
-- I configured GitHub
-- I helped two other people with GitHub
-- I've created two repositories. One was my test repository, which I deleted to try out 
-how to delete repositories. I will use the second one for my own project next week.
-- I became a collaborator on the 'BioinformaticsForBiologistsCourse2016' repository 
-and pushed a text file named 'LastCommentWins.txt' intended for collaborating on the 
-repository. So far, one other person as appended to it.
-- I forked the 'BioinformaticsForBiologistsCourse2016' repository and removed the 
-'LastCommentWins.txt' which I previously added. Then, I sent a pull request for the change
-I made.
-- In addition, I approved a pull request Miranka made to the original 'BioinformaticsForBiologistsCourse2016'
-repository and rejected one Tjibbe made because of a merge conflict.
+Graded
